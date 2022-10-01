@@ -1,0 +1,73 @@
+:root{
+    margin: 0;
+    padding: 0;
+
+}
+
+body{
+    background-color: azure;
+    margin: 0;
+    overflow-x: hidden;
+}
+
+.navigation{
+    text-align: center;
+    font-size: xx-large;
+    background-color:antiquewhite ;
+    padding: 1rem;
+    height: 5rem;
+}
+
+#input-txt{
+    width: 70%;
+    height: 15vh;
+    display: block;
+    margin: 25px auto;
+    padding: 1rem;
+    font-size: 1rem;
+    border-radius: 20px;
+    /* opacity: 0.6; */
+    font-weight:600;
+}
+.container-center{
+    text-align: center;
+}
+button{
+    border-radius: 15px;
+    background-color: black;
+    color:  white;
+    font-weight: 900;
+    padding: 10px;
+}
+.output-log{
+    font-size: x-large;
+    margin-top: 20px;
+    font-weight: 800; 
+    z-index: 100;
+}
+#output {
+    border: 1px solid black;
+    border-radius: 20px;
+    height: 10vh;
+    width: 70%;
+    overflow: auto;
+    margin: 2rem auto;
+    padding: 1rem;
+    background: white;
+    color: black;
+    /* opacity: 0.6; */
+    font-size: 1rem;
+    font-weight: 900;
+}
+
+.footer{
+    text-align: center;
+    width: 100%;
+    background-color: wheat; 
+    padding: 1rem;
+    margin-right : -32px;
+    position: absolute;
+    bottom: 0;
+    font-weight: 900;
+    color: black;
+}
