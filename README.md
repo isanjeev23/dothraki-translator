@@ -1,6 +1,6 @@
 ## Dothraki Translator 
 
-**markSix
+**markSeven
 Project: Dothraki Translator App**
 
 The repository contains code for converting English to Dothraki language ( a fictional language based on game of thrones)
